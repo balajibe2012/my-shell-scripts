@@ -1,3 +1,5 @@
+Vehicle Model Analytics Using Hive & Public API ![image](https://github.com/user-attachments/assets/fe446f44-c50d-4093-a3d2-897087af217f)
+
 Description: 	This use case is about receiving data from the RESTAPI and clean load copy the data to HDFS and then loading into HIVE tables. Vehicle Model Analytics Using Hive & Public API 
 Actual script:	https://github.com/balajibe2012/my-shell-scripts
 Source: 	 I have used United States Department of Transportation free RESTAPI for data as below,
