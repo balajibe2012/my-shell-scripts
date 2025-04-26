@@ -1,4 +1,6 @@
-Vehicle Model Analytics Using Hive & Public API ![image](https://github.com/user-attachments/assets/fe446f44-c50d-4093-a3d2-897087af217f)
+Vehicle Model Analytics Using Hive & Public API 
+![image](https://github.com/user-attachments/assets/0873792c-615f-4826-9582-748f62f2a719)
+
 
 Description: 	This use case is about receiving data from the RESTAPI and clean load copy the data to HDFS and then loading into HIVE tables. Vehicle Model Analytics Using Hive & Public API 
 Actual script:	https://github.com/balajibe2012/my-shell-scripts
@@ -87,5 +89,8 @@ Unit testing	Before look of Hive
 	
 	Sample select query
 	
-![image](https://github.com/user-attachments/assets/7b1d22a4-9fb7-4492-bc6d-f643969e77c0)
-
+	
+	Log file created;
+	
+	
+![image](https://github.com/user-attachments/assets/fb2821a6-84f6-4b69-826c-ef0d3f974e3e)
